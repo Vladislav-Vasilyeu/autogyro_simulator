@@ -1,19 +1,10 @@
-﻿# Unity generated files
-Unity/Project/Autogyro/Library/
-Unity/Project/Autogyro/Logs/
-Unity/Project/Autogyro/obj/
-Unity/Project/Autogyro/.vs/
-Unity/Project/Autogyro/UserSettings/
-Unity/Project/Autogyro/Temp/
-Unity/Project/Autogyro/Build/
-Unity/Project/Autogyro/Builds/
+﻿
 
 # Unrelated / generated Unity projects
 Unity/Project/Подготовка к экзамену/
 
 # Build artifacts and duplicates
-build/
-BuildWeb/
+
 *_BurstDebugInformation_DoNotShip/
 
 # Heavy source/raw materials kept outside Git
@@ -43,7 +34,7 @@ animate/
 *.docx
 
 # Duplicate root-level media
-/autogyro.mp4
+
 
 # Logs and crash/debug output
 *.log
