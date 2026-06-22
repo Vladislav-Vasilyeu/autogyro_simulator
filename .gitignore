@@ -8,9 +8,7 @@ Unity/Project/Подготовка к экзамену/
 *_BurstDebugInformation_DoNotShip/
 
 # Heavy source/raw materials kept outside Git
-3dsMax/
-model/
-animate/
+Unity/
 Фото для модели/
 
 # IDE and editor files
